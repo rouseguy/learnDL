@@ -12,6 +12,10 @@ Articles/Books to learn Deep Learning
 6. http://colah.github.io/posts/2014-12-Groups-Convolution/
 7. 
 
+#### Generative Adversarial Networks
+
+1. [GAN Review by Adit Deshpande](https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-1-Generative-Adversarial-Nets)
+
 #### Recurrent Neural Networks
 
 1. http://deeplearning4j.org/lstm.html
